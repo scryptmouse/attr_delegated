@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["devel@mouse.vc"]
   spec.summary       = %q{Delegate an ActiveModel attribute and all its meta methods to another model.}
   spec.description   = %q{Delegate an ActiveModel attribute and all its meta methods to another model.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/scryptmouse/attr_delegated"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
